@@ -1,0 +1,19 @@
+df3780e (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{0}: merge develop: Fast-forward
+c2b16b9 HEAD@{1}: checkout: moving from feature2 to master
+df3780e (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+9816360 HEAD@{3}: checkout: moving from feature1 to feature2
+df3780e (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+16f96ea HEAD@{5}: checkout: moving from develop to feature1
+df3780e (HEAD -> master, origin/master, feature2, feature1, develop) HEAD@{6}: commit (merge): ?
+16f96ea HEAD@{7}: merge feature1: Fast-forward
+da7618d HEAD@{8}: checkout: moving from feature2 to develop
+9816360 HEAD@{9}: commit: added style for index.html
+da7618d HEAD@{10}: checkout: moving from develop to feature2
+da7618d HEAD@{11}: checkout: moving from feature1 to develop
+16f96ea HEAD@{12}: commit: change index.html added pictures
+46a4b26 HEAD@{13}: commit: added pictures
+da7618d HEAD@{14}: checkout: moving from develop to feature1
+da7618d HEAD@{15}: commit: added index.html
+c2b16b9 HEAD@{16}: checkout: moving from master to develop
+c2b16b9 HEAD@{17}: commit (initial): added readme.md
+
